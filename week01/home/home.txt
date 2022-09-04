@@ -1,0 +1,27 @@
+total 100
+drwxr-xr-x  3 root    root    4096 Sep  2 17:39 ..
+-rw-r--r--  1 huraira huraira 3771 Sep  2 17:39 .bashrc
+-rw-r--r--  1 huraira huraira  220 Sep  2 17:39 .bash_logout
+-rw-r--r--  1 huraira huraira  807 Sep  2 17:39 .profile
+drwx------  3 huraira huraira 4096 Sep  2 17:46 .local
+drwxr-xr-x  2 huraira huraira 4096 Sep  2 17:46 Videos
+drwxr-xr-x  2 huraira huraira 4096 Sep  2 17:46 Templates
+drwxr-xr-x  2 huraira huraira 4096 Sep  2 17:46 Public
+drwxr-xr-x  2 huraira huraira 4096 Sep  2 17:46 Pictures
+drwxr-xr-x  2 huraira huraira 4096 Sep  2 17:46 Music
+drwxr-xr-x  2 huraira huraira 4096 Sep  2 17:46 Documents
+drwx------  5 huraira huraira 4096 Sep  3 09:38 snap
+drwx------  3 huraira huraira 4096 Sep  3 09:42 .pki
+-rw-r--r--  1 huraira huraira    0 Sep  3 09:58 .sudo_as_admin_successful
+-rw-rw-r--  1 huraira huraira   67 Sep  3 10:00 .gitconfig
+drwx------  2 huraira huraira 4096 Sep  3 10:10 .ssh
+drwxr-xr-x  3 huraira huraira 4096 Sep  3 10:13 Desktop
+drwxrwxr-x  3 huraira huraira 4096 Sep  3 10:20 .vscode
+drwx------ 16 huraira huraira 4096 Sep  3 12:01 .config
+drwx------ 14 huraira huraira 4096 Sep  4 10:10 .cache
+drwxr-xr-x  2 huraira huraira 4096 Sep  4 10:10 Downloads
+-rw-r--r--  1 huraira huraira  310 Sep  4 10:38 .pam_environment
+-rw-------  1 huraira huraira 2567 Sep  4 10:39 .bash_history
+drwx------  2 huraira huraira 4096 Sep  4 10:40 .gnupg
+-rw-------  1 huraira huraira   20 Sep  4 10:44 .lesshst
+drwxr-x--- 18 huraira huraira 4096 Sep  4 10:44 .
