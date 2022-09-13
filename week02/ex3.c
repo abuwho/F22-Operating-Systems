@@ -10,9 +10,9 @@ int val(char c) {
         return (int)c - 'A' + 10;
 }
 
-long long to_decimal(char str[], int src)
-{
 
+// converts to decimal
+long long to_decimal(char str[], int src) {
     int len = strlen(str);
     int power = 1;
     long long res = 0;
@@ -60,8 +60,7 @@ int main()
     long long inputNum;
     int source, target;
 
-    scanf("%ld %d %d", &inputNum, &source, &target);
-    
+    scanf("%ld %d %d", &inputNum, &source, &target);   
 
     // checks for wrong input
     if (source < 2 || source > 10 || target < 2 || target > 10) {

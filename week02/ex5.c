@@ -19,8 +19,8 @@ long long tribonacci(int n) {
 int main(void)
 {
 
-    printf("%ld\n", tribonacci(4));
-    printf("%ld", tribonacci(36));
+    printf("Tribonacci(4): %ld\n", tribonacci(4));
+    printf("Tribonacci(36): %ld", tribonacci(36));
 
     return 0;
 }
