@@ -1,0 +1,19 @@
+In the program, for each fork() call, a new Child Process will be created. 
+
+
+* For the first run, n = 3. Therefore, 3 Child Processes are created. 
+   1
+ 1 2 1
+1 3 3 1
+Number of processes = 2^3 = 8
+
+
+* For the second run, n = 5. Therefore, 5 Child processes are created.
+     1
+   1 2 1
+  1 3 3 1
+ 1 4 6 4 1
+1 5 10 10 5 1
+Number of processes = 2^5 = 32
+
+The hierarchy of the pstree will have the form of a binomial tree.
