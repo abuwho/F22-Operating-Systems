@@ -1,0 +1,3 @@
+In this exercise, m threads were created to calculate the number of prime numbers between 0 and n. 
+We may observe from the elapsed time that due to using more threads to calculate number of prime numbers, 
+the elapsed time is optimized and more efficient.
