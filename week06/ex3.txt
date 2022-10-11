@@ -1,0 +1,2 @@
+This is a pre-emptive algorithm, because based on burst time, some processes might be interrupted by the scheduler. 
+Equal amount of time is allocated to run each available or ready process. However, if a process has a higher burst time than the quantum, that process is put on hold and the algorithm prioritizes another available process.

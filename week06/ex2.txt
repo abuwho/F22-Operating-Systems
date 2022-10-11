@@ -1,0 +1,3 @@
+At each iteration, this algorithm picks the smallest execution time and executes that process. 
+It prioritizes shortest execution time from all the available processes. 
+But it does not prioritize according to arrival time. 
