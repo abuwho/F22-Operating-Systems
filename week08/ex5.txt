@@ -1,0 +1,5 @@
+The differences between physical address and virtual address are given below: 
+
+| 1. The physical address cannot be accessed directly. | 1. The virtual address is used as a reference to use the physical memory.
+| 2. The physical address is a location in the memory. | 2. The virtual address does not exist physically in the computer. 
+| 3. The CPU cannot generate physical memorry while a program is running. | 3. The CPU can and does generate virtual memory in the computer while a program is running.

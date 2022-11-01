@@ -1,0 +1,8 @@
+It is given that virtual address = 16-bit and page size = 8 KB
+
+8KB = 8192 = 2^13
+13 bits => offset
+
+Thus, 3 bits for page number.
+
+Page number = 2^3 = 8
