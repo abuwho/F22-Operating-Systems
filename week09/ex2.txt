@@ -1,0 +1,7 @@
+A sequence where a page will appear right after it is removed from the page table, will result in the worse page hit ratio, with 0% as a result. 
+
+For example, if number of page frames is taken to be 10
+
+1 2 3 4 5 6 7 8 9 10 11 12 1 ...
+
+In this example, the hit ratio will be 0% due to the fact that the page table has gotten rid of 1 when it shows up for the 2nd time. 
