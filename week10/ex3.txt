@@ -1,0 +1,6 @@
+-rw-rw-rw-  1 huraira huraira   20 Nov 15 23:35 _ex3.txt
+-rwxrw-rwx  1 huraira huraira   20 Nov 15 23:35 _ex3.txt
+-rwxrwxrwx  1 huraira huraira   20 Nov 15 23:35 _ex3.txt
+1) -rw-rw-rw- means, no execution permission for anyone.
+2) -rwxrw-rwx means, all permissions are granted for user and others (for group, only read and write, which are unchanged)
+3) -rwxrwxrwx means, group also has same permission as user and others (read, write and execute)
