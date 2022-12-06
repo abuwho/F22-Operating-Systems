@@ -1,0 +1,3 @@
+- Prevention: Doesn’t have any cost involved because it has to just make one of the conditions false so that deadlock doesn’t occur. But low device utilization can be it's downside. 
+
+- Avoidance: Has no problem with under-utilization because it dynamically allocates the resources. However, it may block the processes for too long. 
